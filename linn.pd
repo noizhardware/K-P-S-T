@@ -1,0 +1,18 @@
+#N canvas 667 473 600 300 10;
+#X obj 124 71 inlet;
+#X obj 169 71 inlet;
+#X obj 124 162 line;
+#X obj 124 115 pack;
+#X obj 167 115 loadbang;
+#X msg 167 136 60;
+#X obj 124 193 outlet;
+#X text 307 71 ramps to left inlet value;
+#X text 309 89 default is 60ms \, right inlet overrides tiem;
+#X text 306 166 (x) 2018 Alessio Occhiodoro;
+#X text 307 184 https://www.youtube.com/c/minijackaudio;
+#X connect 0 0 3 0;
+#X connect 1 0 3 1;
+#X connect 2 0 6 0;
+#X connect 3 0 2 0;
+#X connect 4 0 5 0;
+#X connect 5 0 3 1;
