@@ -1,5 +1,7 @@
 # K-P-S-T
 ### Karplus-Strong synthesis using a loop as plectrum
 
-The reverb used for the high harmonics is reverbCH~ by Scott Nordlund
+https://youtu.be/PFloWFe5UR4?t=6m8s
+
+The reverb used in the patch is reverbCH~ by Scott Nordlund
 http://www.pdpatchrepo.info/hurleur/reverbCH.zip
