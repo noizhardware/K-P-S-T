@@ -7,7 +7,7 @@
 #X msg 167 136 60;
 #X obj 124 193 outlet;
 #X text 307 71 ramps to left inlet value;
-#X text 309 89 default is 60ms \, right inlet overrides tiem;
+#X text 309 89 default is 60ms \, right inlet overrides time;
 #X text 306 166 (x) 2018 Alessio Occhiodoro;
 #X text 307 184 https://www.youtube.com/c/minijackaudio;
 #X connect 0 0 3 0;
